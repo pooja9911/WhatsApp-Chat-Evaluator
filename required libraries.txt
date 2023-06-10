@@ -1,0 +1,9 @@
+pip install streamlit
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install urlextract
+pip install wordcloud
+pip install emoji
+
+run app - streamlit run app.py
